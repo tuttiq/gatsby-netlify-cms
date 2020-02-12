@@ -24,11 +24,11 @@ I’m [Tutti](https://twitter.com/tuttiq), Engineering Manager at [Mercari](http
 
 ![Women Who Code commitments](https://miro.medium.com/max/1554/1*bHb3FhF0WZ8G3tNw6AW6zw.png "Women Who Code commitments")
 
-Among many other pieces of evidence, the [Global Gender Gap Report 2018](https://www.weforum.org/reports/the-global-gender-gap-report-2018)by World Economic Forum shows that we still have a really long way to go to achieve equality of genders regarding economic participation and political empowerment. And [Japan places especially low](https://mainichi.jp/english/articles/20181218/p2a/00m/0na/020000c) on that ranking.
+Among many other pieces of evidence, the [Global Gender Gap Report 2018](https://www.weforum.org/reports/the-global-gender-gap-report-2018) by World Economic Forum shows that we still have a really long way to go to achieve equality of genders regarding economic participation and political empowerment. And [Japan places especially low](https://mainichi.jp/english/articles/20181218/p2a/00m/0na/020000c) on that ranking.
 
 As a volunteer director of Women Who Code, I organize events and manage the community in Tokyo. We run about[ 2 events per month](https://www.meetup.com/Women-Who-Code-Tokyo/) targeted to women in the tech industry or interested in getting into tech. Our events vary from casual study groups to hands-on workshops and talk nights, featuring inspiring role models in the industry speaking about tech or career development.
 
-![](https://miro.medium.com/max/6000/1*ALBQJk1Mow_tSY3-oKPZww.jpeg) 
+![](https://miro.medium.com/max/6000/1*ALBQJk1Mow_tSY3-oKPZww.jpeg)
 
 Lightning Talk Night about "Careers in Tech: Keep Moving"
 
